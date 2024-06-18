@@ -156,6 +156,9 @@ footer {
   text-align: center;
   padding: 24px 0;
   font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 /* media queries */
